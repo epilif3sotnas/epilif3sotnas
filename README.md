@@ -8,9 +8,19 @@ About my personality I'm described as a constant learner, friendly, focus, resil
 
 ### Social
 
-[![Twitter](https://github.com/epilif3sotnas/epilif3sotnas/tree/main/social/twitter-brands.svg)](https://twitter.com/epilif3sotnas)
-[![LinkedIn](https://github.com/epilif3sotnas/epilif3sotnas/tree/main/social/linkedin-brands.svg)](https://www.linkedin.com/in/epilif3sotnas)
-[![StackOverflow](https://github.com/epilif3sotnas/epilif3sotnas/tree/main/social/stack-overflow-brands.svg)](https://stackoverflow.com/users/13237815/epilif3sotnas)
+<div>
+  <a href="https://twitter.com/epilif3sotnas">
+    <img style="width: 30px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/twitter-brands.svg" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/epilif3sotnas">
+    <img style="width: 30px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/linkedin-brands.svg" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/13237815/epilif3sotnas">
+    <img style="width: 30px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/stack-overflow-brands.svg" />
+  </a>
+</div>
 
 ### GitHub Stats
 
