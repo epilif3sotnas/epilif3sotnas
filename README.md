@@ -10,15 +10,15 @@ About my personality I'm described as a constant learner, friendly, focus, resil
 
 <div>
   <a href="https://twitter.com/epilif3sotnas">
-    <img style="width: 30px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/Twitter.png" />
+    <img style="width: 25px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/Twitter.png" />
   </a>
   
   <a href="https://www.linkedin.com/in/epilif3sotnas">
-    <img style="width: 30px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/LinkedIn.png" />
+    <img style="width: 25px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/LinkedIn.png" />
   </a>
   
   <a href="https://stackoverflow.com/users/13237815/epilif3sotnas">
-    <img style="width: 30px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/Stack-Overflow.png" />
+    <img style="width: 25px;" align="center" src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/social/Stack-Overflow.png" />
   </a>
 </div>
 
