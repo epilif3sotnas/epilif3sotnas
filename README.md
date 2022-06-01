@@ -24,15 +24,9 @@ About my personality I'm described as a constant learner, friendly, focus, resil
 
 ### GitHub Stats
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=epilif3sotnas&count_private=true&show_icons=true&hide_title=true" />
-  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epilif3sotnas&layout=compact&hide_title=true" />
-  </a>
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=epilif3sotnas&count_private=true&show_icons=true&hide_title=true"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epilif3sotnas&layout=compact&hide_title=true"/>
 
 ### StackOverflow Stats
 
-![Stack Overflow Stats](https://github-stack-overflow-stats.vercel.app/api/index?user=13237815&site=stackoverflow)
+<img align="top" src="https://github-stack-overflow-stats.vercel.app/api/index?user=13237815&site=stackoverflow" />
