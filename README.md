@@ -1,6 +1,6 @@
 ## About Me
 
-I'm currently ending Electrical and Computer Engineering degree and also working at CEiiA as Electronics and Embedded Systems Engineer.
+Electronics and Embedded Systems Engineer @ [CEiiA](https://www.ceiia.com) | Electrical and Computer Engineering Master's Student @ [UTAD](https://www.utad.pt)
 
 I start to be curious about technology at high school, then after a research I decide to apply for degrees on this field and after all I end up studying Electrical and Computer Engineering. There I discover fields of Software Development, Computer Networks and Web Development, that I enjoy learn. Besides of this fields outside of University I also discover Financial Technology (FinTech) and blockchain technologies. And now I'm learning more and more FinTech and Blockchain tech.
 
