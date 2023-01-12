@@ -24,9 +24,11 @@ About my personality I'm described as a constant learner, friendly, focus, resil
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=epilif3sotnas&theme=dark)](https://github-readme-stats.vercel.app/api?username=epilif3sotnas&theme=dark)
+![GitHub General Stats](https://github-readme-stats.vercel.app/api?username=epilif3sotnas&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epilif3sotnas&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=epilif3sotnas&theme=dark)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epilif3sotnas&theme=dark)
+
+![Github Commit Stats](https://streak-stats.demolab.com/?user=epilif3sotnas&theme=dark)
 
 ## StackOverflow Stats
 
