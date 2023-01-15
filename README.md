@@ -2,7 +2,11 @@
 
 Electronics and Embedded Systems Engineer @ [CEiiA](https://www.ceiia.com) | Electrical and Computer Engineering Master's Student @ [UTAD](https://www.utad.pt)
 
-I start to be curious about technology at high school, then after a research I decide to apply for degrees on this field and after all I end up studying Electrical and Computer Engineering. There I discover fields of Software Development, Computer Networks and Web Development, that I enjoy learn. Besides of this fields outside of University I also discover Financial Technology (FinTech) and blockchain technologies. And now I'm learning more and more FinTech and Blockchain tech.
+I start to be curious about technology at high school, then after a research I decide to apply for degrees in this field and end up studying Electrical and Computer Engineering. There, I was fascinated about Software Development, Computer Networks and Web Development. Besides of this interests, outside of University I also discover and learn about Financial Technology (FinTech) and blockchain technologies.
+
+Currently, I am interested in combining IoT and blockchain as well as FinTech.
+
+Despite of describing only fields that are related with professional career, there are some things that I like to do outside that, like reading and exercising (callisthenics). 
 
 About my personality I'm described as a constant learner, friendly, focus, resilient, good teammate and willing to work in ideas that improve our life as human beings.
 
