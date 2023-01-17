@@ -6,7 +6,7 @@ I start to be curious about technology at high school, then after a research I d
 
 Currently, I am interested in combining IoT and blockchain as well as FinTech.
 
-Despite of describing only fields that are related with professional career, there are some things that I like to do outside that, like reading and exercising (callisthenics). 
+Despite of describing only fields that are related with my professional career, there are some things that I like to do outside that, like reading and exercising (callisthenics). 
 
 About my personality I'm described as a constant learner, friendly, focus, resilient, good teammate and willing to work in ideas that improve our life as human beings.
 
