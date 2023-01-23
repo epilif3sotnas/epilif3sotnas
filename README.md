@@ -4,7 +4,7 @@ Electronics and Embedded Systems Engineer @ [CEiiA](https://www.ceiia.com) | Ele
 
 I start to be curious about technology at high school, then after a research I decide to apply for degrees in this field and end up studying Electrical and Computer Engineering. There, I was fascinated about Software Development, Computer Networks and Web Development. Besides of this interests, outside of University I also discover and learn about Financial Technology (FinTech) and blockchain technologies.
 
-Currently, I am interested in combining IoT and blockchain as well as FinTech.
+Currently, I am interested in FinTech as well as exploring blockchain on various fields like finance, IoT, assets ownership (e.g. real estate) and government (e.g. e-voting).
 
 Despite of describing only fields that are related with my professional career, there are some things that I like to do outside that, like reading and exercising (callisthenics). 
 
