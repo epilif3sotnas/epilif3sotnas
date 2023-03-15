@@ -13,7 +13,7 @@ About my personality I'm described as a constant learner, friendly, focus, resil
 
 ## Social
 
-| Website     |
+| My Profiles |
 |-------------|
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epilif3sotnas)            |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epilif3sotnas)    |
