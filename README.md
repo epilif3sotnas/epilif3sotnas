@@ -31,4 +31,4 @@ About my personality I'm described as a constant learner, friendly, focus, resil
 
 ## StackOverflow Stats
 
-![stack stats](https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=13237815&withImage=true)
+![Stack Overflow Stats](https://github-stack-overflow-stats.vercel.app/api/index?user=13237815&site=stackoverflow)
