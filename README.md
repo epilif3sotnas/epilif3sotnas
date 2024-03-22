@@ -1,6 +1,6 @@
 ## About Me
 
-Electronics and Embedded Systems Engineer @ [CEiiA](https://www.ceiia.com) | Electrical and Computer Engineering Master's Student @ [UTAD](https://www.utad.pt)
+Software Engineer @ [CEiiA](https://www.ceiia.com) | Electrical and Computer Engineering Master's Student @ [UTAD](https://www.utad.pt)
 
 I start to be curious about technology at high school, then after a research I decide to apply for degrees in this field and end up studying Electrical and Computer Engineering. There, I was fascinated about Software Development, Computer Networks and Web Development. Besides of this interests, outside of University I also discover and learn about Financial Technology (FinTech) and blockchain technologies.
 
