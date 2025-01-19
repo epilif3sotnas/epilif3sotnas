@@ -8,7 +8,7 @@ Currently, I am interested in FinTech (Banking, Blockchain).
 
 Despite of describing only fields that are related with my professional career, there are some activities that I like to do outside that, like reading, exercising and playing chess. 
 
-About my personality I'm described as a constant learner, friendly, focus, resilient, good teammate and willing to work in ideas that improve our life as human beings.
+About my personality, I describe myself as a constant learner, friendly, focused, resilient, consistent, and good teammate. My life goal is to work on ideas that improve our lives as human beings.
 
 
 ## Social
