@@ -1,25 +1,25 @@
 ## About Me
 
-Software Engineer @ [CEiiA](https://www.ceiia.com)
+Software Engineer @ [Feedzai](https://www.feedzai.com)
 
-I start to be curious about technology at high school, then after a research I decide to apply for degrees in this field and end up studying Electrical and Computer Engineering. There, I was fascinated about Software Development, Computer Networks and Web Development. Besides of this interests, outside of University I also discover and learn about Financial Technology (FinTech) and Blockchain technologies.
+Curiosity for technology sparked during my high school years, leading me to pursue a degree in Electrical and Computer Engineering. At university, I developed a strong passion for Software Development, Computer Networks, and Web Development. Outside the classroom, I explored the world of Financial Technology (FinTech) and Blockchain, which have since become my main areas of interest.
 
-Currently, I am interested in FinTech (Banking, Blockchain).
+Currently, I am focused on the intersection of banking, blockchain, and technology-driven financial solutions. I enjoy learning about and working with innovative tools that are shaping the future of finance.
 
-Despite of describing only fields that are related with my professional career, there are some activities that I like to do outside that, like reading, exercising and playing chess. 
+Beyond my professional interests, I enjoy reading, exercising, and playing chess, which help me stay balanced and sharp.
 
-About my personality, I describe myself as a constant learner, friendly, focused, resilient, consistent, and good teammate. My life goal is to work on ideas that improve our lives as human beings.
+I see myself as a constant learner-friendly, focused, resilient, and a consistent team player. My ultimate goal is to contribute to ideas and projects that make a positive impact on people’s lives.
+
+I am always open to connecting with like-minded professionals and exploring new opportunities in FinTech and Blockchain.
 
 
 ## Social
 
-| My Profiles |
-|-------------|
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epilif3sotnas)            |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epilif3sotnas)    |
-| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/epilif3sotnas)        |
-| [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13237815/epilif3sotnas)        |
-| [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/392071581515513856)        |
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epilif3sotnas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/epilif3sotnas)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/epilif3sotnas)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13237815/epilif3sotnas)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/392071581515513856)
 
 
 ## GitHub Stats
