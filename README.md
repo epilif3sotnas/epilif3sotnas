@@ -47,3 +47,9 @@ I am always open to connecting with like-minded professionals and exploring new 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=epilif3sotnas&&show_icons=true&theme=radical"/>
 </p>
+
+
+## GitHub Metrics
+
+![Metrics](https://github.com/epilif3sotnas/epilif3sotnas/blob/master/metrics.svg)
+
