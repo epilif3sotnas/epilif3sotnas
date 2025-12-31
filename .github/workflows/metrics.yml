@@ -1,0 +1,21 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, metadata
+          config_timezone: Europe/Lisbon
+          # Suggested plugins
+          plugin_languages: yes              # Top languages (like your original langs card)
+          plugin_languages_categories: 8     # Limit to 8 languages
+          plugin_isocalendar: yes            # Commit streaks (isometric calendar)
+          plugin_isocalendar_duration: half-year
+          template: classic                  # Clean theme
+          config_twemoji: yes                # Icons/emojis
