@@ -35,21 +35,8 @@ I am always open to connecting with like-minded professionals and exploring new 
 <br>
 
 
-## GitHub Stats - Programming Languages
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epilif3sotnas&theme=dark&langs_count=8"/>
+  <img src="https://github.com/epilif3sotnas/epilif3sotnas/blob/main/metrics.svg"/>
 </p>
-
-
-## GitHub Stats - Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epilif3sotnas&&show_icons=true&theme=radical"/>
-</p>
-
-
-## GitHub Metrics
-
-![Metrics](https://github.com/epilif3sotnas/epilif3sotnas/blob/master/metrics.svg)
-
