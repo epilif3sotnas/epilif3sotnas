@@ -6,7 +6,7 @@ Curiosity for technology sparked during my high school years, leading me to purs
 
 Currently, I am focused on the intersection of banking, blockchain, and technology-driven financial solutions. I enjoy learning about and working with innovative tools that are shaping the future of finance.
 
-Beyond my professional interests, I enjoy reading :book:, exercising :running_man:, and playing chess :chess_pawn:, which help me stay balanced and sharp.
+Beyond my professional interests, I enjoy reading :book:, exercising :running_man:, boxing🥊, and playing chess :chess_pawn:, which help me stay balanced and sharp.
 
 I see myself as a constant learner-friendly, focused, resilient, and a consistent team player. My ultimate goal is to contribute to ideas and projects that make a positive impact on people’s lives.
 
