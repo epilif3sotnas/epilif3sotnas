@@ -23,3 +23,5 @@ jobs:
           
           template: classic
           config_twemoji: yes
+        env:
+            COMMIT_MESSAGE: 'docs: update metrics file {{ github.run_id }}'
